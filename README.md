@@ -10,4 +10,4 @@ My brief intro:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ...
 
-https://github.com/anuraghazra/github-readme-stats
+[![Asjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=A5jadAli)](https://github.com/anuraghazra/github-readme-stats)
