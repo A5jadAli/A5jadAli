@@ -1,12 +1,23 @@
+### Hi there 👋 
+
+**My name is Asjad Ali and I am an ML Expert and AI Developer.**
+
+---
+
 #### 🌟 About Me
 - 🔭 I’m currently working on **Generative AI** and trying to build a startup based on AI agents. Feel free to reach out to me if you have any ideas.
 - 🌱 I’m currently learning **MLOps**.
 - 👯 I’m looking to collaborate on **Open Source ML/AI projects**.
 - 🤔 I’m seeking help with **backend frameworks** like FastAPI, Django, etc.
-- 💬 Ask me about **Data Analysis, Machine Learning, Deep Learning, Fine-tuning LLMs, Chatbot Development, and RAG Applications**.
+- 💬 Ask me about **data analysis, machine learning, deep learning, fine-tuning LLMs, chatbot development, and RAG applications**.
 - 📫 How to reach me: [LinkedIn Profile](https://linkedin.com/in/asjad-ali-arif), [Email](mailto:aliasjid009@gmail.com)
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I enjoy learning new languages and exploring different cultures.
+- ⚡ Fun fact: I love hiking and have climbed several mountain peaks.
+
+---
+
+#### 🚀 Request My Services
+If you're looking for professional services in AI development, ML solutions, or data analysis, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~01a8dab02b97877030?mp_source=share).
 
 <h2 align="center">My GitHub Stats</h2>
 
