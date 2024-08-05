@@ -10,4 +10,13 @@ My brief intro:
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: ...
 
-[![Asjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=A5jadAli&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h2>GitHub Analytics</h2>
+
+<p align="center">
+<a href="https://github.com/A5jadAli">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=A5jadAli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A5jadAli&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=A5jadAli&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
+</p>
+</p>
