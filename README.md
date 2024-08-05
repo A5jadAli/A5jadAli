@@ -19,7 +19,13 @@
 #### 🚀 Request My Services
 If you're looking for professional services in AI development, ML solutions, or data analysis, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~01a8dab02b97877030?mp_source=share).
 
-<h2 align="center">My GitHub Stats</h2>
+<p align="center">
+  <a href="https://www.upwork.com/freelancers/~01a8dab02b97877030?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
   <a href="https://github.com/A5jadAli">
@@ -40,4 +46,3 @@ If you're looking for professional services in AI development, ML solutions, or 
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
-
