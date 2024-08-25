@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-**I am an ML Expert and AI Developer.**
+**I am an ML Expert and GenAI Developer.**
 
 ---
 
