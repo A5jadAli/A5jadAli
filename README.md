@@ -17,11 +17,14 @@
 ---
 
 #### 🚀 Request My Services
-If you're looking for professional services in AI development, ML solutions, or data analysis, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~01a8dab02b97877030?mp_source=share).
+If you're looking for professional services in AI development, ML solutions, or data analysis, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~01a8dab02b97877030?mp_source=share) or [Fiverr](https://www.fiverr.com/yourfiverrprofile).
 
 <p align="center">
   <a href="https://www.upwork.com/freelancers/~01a8dab02b97877030?mp_source=share">
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork"/>
+  </a>
+  <a href="https://www.fiverr.com/yourfiverrprofile">
+    <img src="https://img.shields.io/badge/Fiverr-Hire%20Me-brightgreen?style=for-the-badge&logo=fiverr"/>
   </a>
 </p>
 
