@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-**I am an AI/ML Engineer, Educator and Freelancer.**
+**I am an AI Engineer, Educator and Freelancer.**
 
 ---
 
