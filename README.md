@@ -6,7 +6,7 @@
 
 #### 🌟 About Me
 - 🔭 I’m currently working on **Generative AI** and trying to build a startup based on AI agents. Feel free to reach out to me if you have any ideas.
-- 🌱 I’m currently learning **MLOps**.
+- 🌱 I’m currently learning **MLOps** and **Pytorch**.
 - 👯 I’m looking to collaborate on **Open Source ML/AI projects**.
 - 🤔 I’m seeking help with **backend frameworks** like Flask, FastAPI and Django.
 - 💬 Ask me about **data analysis, machine learning, deep learning, fine-tuning LLMs, chatbot development, Advanced RAG applications and freelancing**.
