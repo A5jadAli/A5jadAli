@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Open Source ML/AI projects**.
 - 🤔 I’m seeking help with **backend frameworks** like Flask, FastAPI and Django.
 - 💬 Ask me about **data analysis, machine learning, deep learning, fine-tuning LLMs, chatbot development, Advanced RAG applications and freelancing**.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/asjad-ali-arif), [Email](mailto:asjadarif.bit20035@gmail.com)
+- 📫 How to reach me: [LinkedIn Profile](https://linkedin.com/in/asjad-ali-arif), [Email](mailto:asjadarif.bit20035@gmail.com)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I enjoy learning new languages and exploring different cultures.
 
