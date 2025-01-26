@@ -18,10 +18,12 @@
 
 ---
 
-### 🔗 Let's Connect  
-<a href="https://linkedin.com/in/asjad-ali-arif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-<a href="https://www.upwork.com" target="_blank"><img src="https://img.shields.io/badge/Upwork-%2330B980.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>  
-<a href="mailto:aliasjid009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
+### 🔗 Let's Connect
+<div align="center">
+  <a href="https://linkedin.com/in/asjad-ali-arif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="https://www.upwork.com/freelancers/~01a8dab02b97877030" target="_blank"><img src="https://img.shields.io/badge/Upwork-%2330B980.svg?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>  
+  <a href="mailto:aliasjid009@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>  
+</div>
 
 ---
 
