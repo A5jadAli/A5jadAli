@@ -57,4 +57,4 @@
 ---
 
 ### 💡 Let's Collaborate  
-If you're working on projects related to **Generative AI, MLOps**, or other exciting AI fields, let’s connect and create something amazing together! 😊  
+If you're working on projects related to **Generative AI, MLOps**, or other exciting AI fields, let’s connect and create something amazing together!  
