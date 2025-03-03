@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Asjad Ali</h1>
+<h1 align="center">Hi there👋🏻, I'm Asjad Ali</h1>
 <h3 align="center">AI Engineer | Trainer | Freelancer | AI Agents Specialist</h3>
 
 ---
