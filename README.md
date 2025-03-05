@@ -14,7 +14,7 @@
 - 🌱 **Learning and Practicing**: MLOps, PyTorch, and backend frameworks (Flask, FastAPI, Django).  
 - 👯 **Collaborating On**: Open Source ML/AI projects.  
 - 💬 **Ask Me About**: Data analysis, machine learning, fine-tuning LLMs, chatbot development, advanced RAG applications, and freelancing.  
-- ⚡ **Fun Fact**: I enjoy hiking, playing tennis ball cricket, and exploring new cultures.  
+- ⚡ **Fun Fact**: I enjoy hiking, playing tennis, cricket, and exploring new cultures.  
 
 ---
 
@@ -57,4 +57,4 @@
 ---
 
 ### 💡 Let's Collaborate  
-If you're working on projects related to **Generative AI, MLOps**, or other exciting AI fields, let’s connect and create something amazing together!  
+If you're working on projects related to **Generative AI, MLOps**, or other exciting AI fields, let’s connect and create something amazing together.
